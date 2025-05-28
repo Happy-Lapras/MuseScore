@@ -1,3 +1,11 @@
+## This is a personal version of the MuseScore notation program. To install the real MuseScore program, see [github.com/musescore/Musescore](url).
+
+## What's different?
+I have changed the icon of the auto beaming tool.
+
+
+The following is a duplicate of the MuseScore README section.
+
 # ![MuseScore](share/icons/musescore_logo_full.png)
 
 Music notation and composition software
