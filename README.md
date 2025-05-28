@@ -1,4 +1,4 @@
-## This is a personal version of the MuseScore notation program. To install the real MuseScore program, see [github.com/musescore/Musescore](url).
+## This is a personal version of the MuseScore notation program. To install the real MuseScore program, see github.com/musescore/Musescore.
 
 ## What's different?
 I have changed the icon of the auto beaming tool.
